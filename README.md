@@ -165,4 +165,4 @@ or to obtain the result in XML:
 
     curl -F "file=@veraPDF-corpus/PDF_A-1b/6.1 File structure/6.1.12 Implementation limits/veraPDF test suite 6-1-12-t01-fail-a.pdf" localhost:8080/api/validate/1b -H  "Accept:application/xml"
 ### PDF/A Autodetection Validation services
-please add documentation example, how work with autodetection
+please add documentation example, how to work with autodetection
